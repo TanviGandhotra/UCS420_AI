@@ -9,8 +9,8 @@ b=20
 c=a+b
 # 2.2 Concatinate two strings
 print (a, " + ", b, " --> ", c)
-a = "Bhagvati"
-b = " bhatu"
+a = "tanvi"
+b = " Gandhotra"
 c = a + b		
 print (a, " + ", b, " --> ", c)
 # 2.3 Concatinate string with number
